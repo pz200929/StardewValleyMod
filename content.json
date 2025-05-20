@@ -2,19 +2,19 @@
     "Format": "2.6.0",
     "Changes": [
         {
-            "Action": "EditData",
-            "Target": "Characters/Dialogue/Demetrius",
-            "FromFile": "assets/Demetrius.json"
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Lewis",
+            "FromFile": "assets/LebonbonDialogue.json"
         },
         {
             "Action": "Load",
-            "Target": "Characters/Demetrius",
-            "FromFile": "assets/Demetrius.png"
+            "Target": "Characters/Lewis",
+            "FromFile": "assets/LebonbonSprite.png"
         },
         {
             "Action": "Load",
-            "Target": "Portraits/Demetrius",
-            "FromFile": "assets/DemetriusPortrait.png"
+            "Target": "Portraits/Lewis",
+            "FromFile": "assets/LebonbonPortrait.png"
         }
     ]
 }
