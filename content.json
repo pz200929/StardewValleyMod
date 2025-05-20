@@ -1,0 +1,20 @@
+{
+    "Format": "2.6.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Demetrius",
+            "FromFile": "assets/Demetrius.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Demetrius",
+            "FromFile": "assets/Demetrius.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Demetrius",
+            "FromFile": "assets/DemetriusPortrait.png"
+        }
+    ]
+}

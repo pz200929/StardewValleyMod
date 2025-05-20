@@ -1,0 +1,11 @@
+{
+    "Name": "Lebonbon",
+    "Author": "PZ",
+    "Version": "1.0.0",
+    "Description": "Replaces Demetrius's dialogue and sprites using Lebron",
+    "UniqueID": "PZ.Lebonbon",
+    "MinimumApiVersion": "3.0.0",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
